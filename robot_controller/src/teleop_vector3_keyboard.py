@@ -24,6 +24,8 @@ Laser on/off up-down
 	o	// laser on
 	f	// laser off
 CTRL-C to quit
+
+More to add
 """
 
 def getKey():
