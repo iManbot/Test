@@ -1,0 +1,4 @@
+{
+  "name": "SOS"
+, "files": [ { "filters": ["*.cpp", "*.h", "*.ui", "CMakeLists.txt", "Find*.cmake"], "recursive": 1 } ]
+}
